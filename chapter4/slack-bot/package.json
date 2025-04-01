@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@slack/events-api": "^3.0.1",
+    "@slack/web-api": "^7.0.4",
+    "dotenv": "^16.4.5"
+  }
+}
